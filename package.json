@@ -1,0 +1,22 @@
+{
+  "name": "neatshadowz",
+  "version": "1.0.0",
+  "description": "Add shadows to your images",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Huldas96/Module_4_5.git"
+  },
+  "keywords": [
+    "shadows"
+  ],
+  "author": "Hulda Sól",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Huldas96/Module_4_5/issues"
+  },
+  "homepage": "https://github.com/Huldas96/Module_4_5#readme"
+}
