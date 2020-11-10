@@ -1,3 +1,5 @@
+
+// A function that adds shadows and padding
 function neatShadowz(options) {
     let images = document.querySelectorAll(".neatShadowz");
 
@@ -16,4 +18,11 @@ function neatShadowz(options) {
 
 }
 
+// This is just an example on how it works
+neatShadowz({
+    shadow_type: "soft",
+    padding: true
+});
+
+// To export to npm
 module.exports.neatShadowz = neatShadowz;
